@@ -1,0 +1,48 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQVllVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEBxUZXh0IGFyZWEgY29udGVudCAoRGlzYWJsZWQp0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAGYAQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/53d3d3LipyM/8AAAAAAAACM/53d3d3LipyM/53d3d3Lip9I0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00go6OzxfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKPkFEoj9AgBOAFKJCQ4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXk51bml0by1SZWd1bGFy0jQ1SktfEBNOU011dGFibGVEaWN0aW9uYXJ5o0o2ONI0NU1OXxAQTlNGb250RGVzY3JpcHRvcqJPOF8QEE5TRm9udERlc2NyaXB0b3LTUQpSU1RVWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnSAAIAaEATSNDVXWF8QEE5TUGFyYWdyYXBoU3R5bGWiVzjSNDVaW18QEk5TQXR0cmlidXRlZFN0cmluZ6JcOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFfYFRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgClAKwAtAC/AMMAxQDHAMkAzQDPANEA0wDVAQIBJAE3AT4BQwFFAUcBSQFLAVABUgFUAVYBWAFaAV4BZAFpAW8BeAGBAYoBkwGYAaMBrAG5AbwBxQHKAecB6QHrAfIB9QH3AfkB/AH+AgACAgIYAi4CNwJGAksCYQJlAmoCfQKAApMCmgKlArECswK1ArcCvALPAtIC1wLsAu8DBAMWAxkDHgAAAAAAAAIBAAAAAAAAAGEAAAAAAAAAAAAAAAAAAAMg"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "837A3A14-821B-402B-B7C9-89121C284542",
+  "dontSynchroniseWithSymbol": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 278,
+    "x": 11,
+    "y": 8
+  },
+  "glyphBounds": "{{0, 4}, {174, 13}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Text area content (D",
+  "nameIsFixed": false,
+  "originalObjectID": "837A3A14-821B-402B-B7C9-89121C284542",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D6205E2D-54D4-4A5C-A7E4-E1E62615B61D"
+  },
+  "textBehaviour": 1
+}
