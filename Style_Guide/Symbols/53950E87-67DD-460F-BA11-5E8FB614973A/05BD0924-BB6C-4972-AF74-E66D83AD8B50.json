@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "05BD0924-BB6C-4972-AF74-E66D83AD8B50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 189,
+    "width": 100,
+    "x": 33,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 89,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Hidden / PalleteTemp",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB150FC4-D7FE-4018-9B1F-78A31E9CAAB0",
+      "overrideName": "67DCCD27-FE4F-465A-8936-35ABDC13C3FD_stringValue",
+      "value": "#B0D865"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85982647-311F-4E48-B1C9-73D9A850FA33",
+      "overrideName": "D2C4DC61-6755-435E-82E3-1A75C4384404_stringValue",
+      "value": "Main"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "32931036-4788-4BC6-BDFA-99DBCFD719E5",
+      "overrideName": "111837E1-DFCB-4575-BE7F-4C9E9101D860_stringValue",
+      "value": "Connifer"
+    }
+  ],
+  "overrides": {
+    "111837E1-DFCB-4575-BE7F-4C9E9101D860": "Connifer",
+    "67DCCD27-FE4F-465A-8936-35ABDC13C3FD": "#B0D865",
+    "D2C4DC61-6755-435E-82E3-1A75C4384404": "Main"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D6CFC6C1-DFAE-4070-AB18-B513E81598F1",
+  "verticalSpacing": 0
+}
